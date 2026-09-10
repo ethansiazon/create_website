@@ -37,3 +37,21 @@ create_website/
 ├── README.md           # Project information
 └── LICENSE             # License information
 ```
+
+## GitHub Pages Deployment
+
+View the live portfolio here:
+
+https://ethansiazon.github.io/create_website/
+
+## Viewing the Project
+
+To view the portfolio online, open the GitHub Pages link above in any modern web browser.
+
+To view the project locally:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/ethansiazon/create_website.git
+```
